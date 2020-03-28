@@ -1,4 +1,4 @@
-package com.canerkaya.asciidntrc;
+package com.canerkaya.asciiconverter;
 
 import org.junit.Test;
 
